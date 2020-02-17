@@ -1,0 +1,15 @@
+.git
+.idea
+.iml
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+.vscode
+
+
+assets/
+node_modules/
+
+
